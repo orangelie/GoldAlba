@@ -1,0 +1,11 @@
+D:\Project\C#Project\GoldAlba\GoldAlba\bin\Debug\GoldAlba.exe.config
+D:\Project\C#Project\GoldAlba\GoldAlba\bin\Debug\GoldAlba.exe
+D:\Project\C#Project\GoldAlba\GoldAlba\bin\Debug\GoldAlba.pdb
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.csproj.AssemblyReference.cache
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.csproj.SuggestedBindingRedirects.cache
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.Form1.resources
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.Properties.Resources.resources
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.csproj.GenerateResource.cache
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.csproj.CoreCompileInputs.cache
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.exe
+D:\Project\C#Project\GoldAlba\GoldAlba\obj\Debug\GoldAlba.pdb
